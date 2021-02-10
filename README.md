@@ -70,8 +70,8 @@ A list of commonly used resources that I find helpful are listed in the acknowle
 ### Built With
 
 This section should list any major frameworks that you built your project using. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-* HTML
-* CSS
+* HTML5
+* CSS3 &amp; [Tailwind CSS](https://tailwindcss.com/)
 * [React](https://reactjs.org/)
 * [Sanity.io](https://www.sanity.io/)
 
